@@ -17,12 +17,14 @@ Especially useful for troubleshooting pinning issues or corrupted Start Menu/Tas
 ## Usage
 
 1. Download or clone this repository.  
-2. Open PowerShell as Administrator.  
-3. Navigate to the script directory:  
+2. Open PowerShell as Administrator.
+3. Type this command:
+   `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
+4. Navigate to the script directory:  
    `cd path\to\script`  
-4. Run the script:  
+5. Run the script:  
    `.\Windows11ShellResetTool.ps1`  
-5. Wait for the script to complete. Explorer will restart automatically.
+6. Wait for the script to complete. Explorer will restart automatically.
 
 ---
 
