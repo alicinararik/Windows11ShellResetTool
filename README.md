@@ -19,9 +19,9 @@ Especially useful for troubleshooting pinning issues or corrupted Start Menu/Tas
 1. Download or clone this repository.  
 2. Open PowerShell as Administrator.  
 3. Navigate to the script directory:  
-   cd path\to\script  
+   `cd path\to\script`  
 4. Run the script:  
-   .\Windows11ShellResetTool.ps1  
+   `.\Windows11ShellResetTool.ps1`  
 5. Wait for the script to complete. Explorer will restart automatically.
 
 ---
