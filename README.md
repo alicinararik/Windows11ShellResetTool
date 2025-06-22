@@ -25,11 +25,15 @@ Especially useful for troubleshooting pinning issues or corrupted Start Menu/Tas
 5. .\Windows11ShellResetTool.ps1
 Wait for the script to complete. Explorer will restart automatically.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Disclaimer
+---
+
+## Disclaimer
 Use this script at your own risk. It has been tested on Windows 11 LTSC and similar optimized systems but may behave differently on other setups.
 
-Contributions
+---
+
+## Contributions
 Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
