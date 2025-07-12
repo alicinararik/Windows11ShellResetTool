@@ -30,7 +30,7 @@ Especially useful for troubleshooting pinning issues or corrupted Start Menu/Tas
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the GNU General Public License V3. See the LICENSE file for details.
 
 ---
 
